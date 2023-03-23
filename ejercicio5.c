@@ -1,7 +1,7 @@
 /******************************************************************************
 Programador: Estuardo A. Castillo Garcia 
 carnet 21559 
-Ejercicio #4
+Ejercicio #5
 Programa: Punteros y Arrays
 Archivo: ejercicio5.c
 Dependencias: ninguna
